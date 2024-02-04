@@ -1,0 +1,10 @@
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\bin\Release\XOREncryptions.exe.config
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\bin\Release\XOREncryptions.exe
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\bin\Release\XOREncryptions.pdb
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\Cheng.MainForm.resources
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\Cheng.Properties.Resources.resources
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\XOREncryptions.csproj.GenerateResource.cache
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\XOREncryptions.csproj.CoreCompileInputs.cache
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\XOREncryptions.exe
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\XOREncryptions.pdb
+D:\BianCheng\Project\CSharp\XOREncryptions\XOREncryptions\obj\Release\XOREncryptions.csproj.AssemblyReference.cache
